@@ -4,3 +4,5 @@ def adding(x,y):
 def sub(x,y):
     k=x-y
     print(k)
+def testing():
+    print(__name__)
